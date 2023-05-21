@@ -3,12 +3,12 @@
 Conditional statements are those statements that let us do different tasks based on a certain condition.
 
 ```py
-if <condition>:
-  <body>
-elif <condition>:
-  <body>
+if a > b:
+  print("a is greater than b")
+elif a < b>:
+  print("b is greater than a")
 else:
-  <body>
+  print("a and b are equal")
 ```
 
 # Questions
@@ -19,6 +19,8 @@ a = 33
 b = 200
 if b > a:
   print("b is greater than a")
+else:
+  print("a is greater than b")
 ```
 
 2. What is the output of this code?
@@ -30,10 +32,10 @@ print("A") if a > b else print("B")
 
 3. and, or, and not are ______ operators.
 
-a. relational
-b. logical
-c. conditional
-d. ternary
+a. relational<br>
+b. logical<br>
+c. conditional<br>
+d. ternary<br>
 
 # Answers
 
