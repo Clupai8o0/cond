@@ -22,6 +22,11 @@ if b > a:
 else:
   print("a is greater than b")
 ```
+<details>
+  <summary>Answer</summary>
+  b is greater than a
+</details>
+<br>
 
 2. What is the output of this code?
 ```py
@@ -30,12 +35,26 @@ b = 330
 print("A") if a > b else print("B")
 ```
 
+<details>
+  <summary>Answer</summary>
+  B
+</details>
+<br>
+
+
 3. and, or, and not are ______ operators.
 
 a. relational<br>
 b. logical<br>
 c. conditional<br>
 d. ternary<br>
+
+<details>
+  <summary>Answer</summary>
+  (b) logical
+</details>
+<br>
+
 
 4. What is the output of the following code snippet:
 
@@ -49,6 +68,13 @@ if 'a' in 'qux':
 print(4, end=" ")
 ```
 
+<details>
+  <summary>Answer</summary>
+  1 2 4
+</details>
+<br>
+
+
 5. What is value of this expression:
 
 ```py
@@ -59,6 +85,13 @@ a. 'axb' <br>
 b. 'ax' <br>
 c. 'axyb' <br>
 d. 'ab' <br>
+
+<details>
+  <summary>Answer</summary>
+  (b) ax
+</details>
+<br>
+
 
 6. What gets printed with the following code?
 
@@ -71,6 +104,13 @@ if x or y and z :
 else:
   print("no")
 ```
+
+<details>
+  <summary>Answer</summary>
+  yes
+</details>
+<br>
+
 
 7. What gets printed with the following code ?
 
@@ -88,12 +128,8 @@ else:
   print(4)
 ```
 
-# Answers
-
-1. b is greater than a
-2. B
-3. (b) logical
-4. 1 2 4
-5. (b) 'ax'
-6. yes
-7. 3
+<details>
+  <summary>Answer</summary>
+  3
+</details>
+<br>
