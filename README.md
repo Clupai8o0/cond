@@ -5,7 +5,7 @@ Conditional statements are those statements that let us do different tasks based
 ```py
 if a > b:
   print("a is greater than b")
-elif a < b>:
+elif a < b:
   print("b is greater than a")
 else:
   print("a and b are equal")
